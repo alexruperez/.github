@@ -1,0 +1,14 @@
+newIssueWelcomeComment: >
+  ❤️ Thanks for opening your first issue here! We will follow up as soon as we can.
+
+newPRWelcomeComment: >
+  🙌 Thanks for your contribution! 🎉🥳 You're awesome.
+
+firstPRMergeComment: >
+  Congrats on merging your first pull request in this repository! 🏅
+
+requestInfoReplyComment: >
+  We would appreciate it if you could provide us with more information about this
+  issue/pr. 🙈
+
+requestInfoLabelToAdd: 'need more info'
