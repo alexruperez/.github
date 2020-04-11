@@ -2,4 +2,5 @@ author: Alex Rupérez
 author_url: https://twitter.com/alexruperez
 clean: true
 copyright: Copyright (c) 2020 Alex Rupérez
+swift_build_tool: spm
 theme: fullwidth
